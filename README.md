@@ -8,3 +8,7 @@ Install dependencies:
 
 Run react + vite : 
   --->     *npm run dev*
+
+
+Deployed Link: 
+ *https://admin-dashboard-vite-react.netlify.app/*
